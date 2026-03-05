@@ -1,0 +1,5 @@
+{
+  "appId": "com.yourname.synapse",
+  "appName": "Synapse",
+  "webDir": "dist"
+}
